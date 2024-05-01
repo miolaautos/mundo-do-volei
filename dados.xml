@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<bolas_de_volei>
+    <bola>
+        <id>1</id>
+        <nome>Copaya BV100</nome>
+        <preco>5000</preco>
+        <cor>Azul</cor>
+    </bola>
+    <bola>
+        <id>2</id>
+        <nome>Wilson Soft Play</nome>
+        <preco>7000</preco>
+        <cor>Verde</cor>
+    </bola>
+    <bola>
+        <id>3</id>
+        <nome>Wilson Soft Play</nome>
+        <preco>10000</preco>
+        <cor>Vermelha</cor>
+    </bola>
+    <bola>
+        <id>4</id>
+        <nome>Misaka V390W</nome>
+        <preco>30000</preco>
+        <cor>Amarela</cor>
+    </bola>
+    <bola>
+        <id>5</id>
+        <nome>Penalt MG3600</nome>
+        <preco>8000</preco>
+        <cor>Laranja</cor>
+    </bola>
+    <bola>
+        <id>6</id>
+        <nome>Misaka praia</nome>
+        <preco>9000</preco>
+        <cor>Roxa</cor>
+    </bola>
+    <bola>
+        <id>7</id>
+        <nome>Stadium</nome>
+        <preco>6000</preco>
+        <cor>Branca</cor>
+    </bola>
+    <bola>
+        <id>8</id>
+        <nome>Tachikara SV18S</nome>
+        <preco>9000</preco>
+        <cor>Preto</cor>
+    </bola>
+</bolas_de_volei>
